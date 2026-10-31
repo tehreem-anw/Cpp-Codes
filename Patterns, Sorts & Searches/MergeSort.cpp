@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int max_size = 100;
+const int max_size = 100;
 
 void merge(int arr[], int st, int mid, int end){
     int temp[max_size];
