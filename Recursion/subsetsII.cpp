@@ -46,3 +46,11 @@ int main() {
     
     return 0;
 }
+
+// All unique subsets for {1, 2, 2}:
+// { 1 2 2 }
+// { 1 2 }
+// { 1 }
+// { 2 2 }
+// { 2 }
+// { }
