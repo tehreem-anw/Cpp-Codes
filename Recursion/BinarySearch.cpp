@@ -41,3 +41,6 @@ int main() {
     
     return 0;
 }
+
+// Output:
+// Target 23 found at index: 5
