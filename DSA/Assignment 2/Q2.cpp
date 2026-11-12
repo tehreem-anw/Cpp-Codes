@@ -3,7 +3,7 @@ using namespace std;
 
 class Node{
     public:
-    int data;
+    int ;
     Node* left;
     Node* right;
 
